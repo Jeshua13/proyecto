@@ -1,0 +1,39 @@
+legend{
+	font-size: 20px; 
+	color: red;
+	height: 30px;
+	font-family: cursive;
+	height: 50px;
+
+}
+body{
+	color:black;
+	background: pink;
+}
+div{
+	border: solid;
+	margin:auto;
+	width: 650px;
+	text-align: justify;
+	
+
+
+}
+img{
+	margin: 20px;
+	top: 70px;
+	width: 150px;
+}
+fieldset{
+	margin: auto;
+	border: groove;
+	width: 500px;
+	height: 150px;
+
+}
+
+h2{
+	position: relative;
+	top: 10px;
+	font-family: cursive;
+}
